@@ -1,7 +1,7 @@
 # DS-Pet
 鲸鱼娘桌宠素材
 <center>
-  <img src="webp/优雅女仆舞.webp" alt="DS-Pet" width="640">
+  <img src="webp/优雅女仆舞.webp" alt="DS-Pet" width="320">
 </center>
 
 ## webm
