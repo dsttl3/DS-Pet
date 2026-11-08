@@ -257,5 +257,5 @@ window.addEventListener('webp-pet:error', (e) => {
 ## 致谢与许可
 
 - 素材原作者：[PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet)，使用与二次分发请遵循原仓库授权。
-- 角色形象为 DeepSeek 鲸鱼娘，相关版权归 DeepSeek 所有。
+- 角色形象为 DeepSeek 鲸鱼娘，相关版权归原作者所有。
 - 本仓库代码基于 [MIT License](../LICENSE) 开源，Copyright (c) 2026 dsttl3。
